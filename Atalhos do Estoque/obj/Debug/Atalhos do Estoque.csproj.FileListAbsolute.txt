@@ -1,0 +1,43 @@
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\Atalhos do Estoque.exe.config
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\Atalhos do Estoque.exe
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\Atalhos do Estoque.pdb
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\obj\Debug\Atalhos do Estoque.csprojAssemblyReference.cache
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\obj\Debug\Atalhos_do_Estoque.Form1.resources
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\obj\Debug\Atalhos_do_Estoque.Properties.Resources.resources
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\obj\Debug\Atalhos do Estoque.csproj.GenerateResource.cache
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\obj\Debug\Atalhos do Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\obj\Debug\Atalhos do Estoque.exe
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\obj\Debug\Atalhos do Estoque.pdb
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\ClosedXML.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\Google.Protobuf.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\MySql.Data.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\Renci.SshNet.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\System.Buffers.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\System.IO.Packaging.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\System.Memory.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\Zstandard.Net.dll
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\ClosedXML.pdb
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\ClosedXML.xml
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\Google.Protobuf.pdb
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\Google.Protobuf.xml
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\MySql.Data.xml
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\Renci.SshNet.xml
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\System.Buffers.xml
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\System.Memory.xml
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Balcao03\source\repos\Atalhos do Estoque\obj\Debug\Atalhos do Estoque.csproj.CopyComplete

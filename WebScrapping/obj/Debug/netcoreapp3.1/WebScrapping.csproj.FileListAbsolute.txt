@@ -1,0 +1,13 @@
+C:\Users\Balcao03\source\repos\WebScrapping\bin\Debug\netcoreapp3.1\WebScrapping.exe
+C:\Users\Balcao03\source\repos\WebScrapping\bin\Debug\netcoreapp3.1\WebScrapping.deps.json
+C:\Users\Balcao03\source\repos\WebScrapping\bin\Debug\netcoreapp3.1\WebScrapping.runtimeconfig.json
+C:\Users\Balcao03\source\repos\WebScrapping\bin\Debug\netcoreapp3.1\WebScrapping.runtimeconfig.dev.json
+C:\Users\Balcao03\source\repos\WebScrapping\bin\Debug\netcoreapp3.1\WebScrapping.dll
+C:\Users\Balcao03\source\repos\WebScrapping\bin\Debug\netcoreapp3.1\WebScrapping.pdb
+C:\Users\Balcao03\source\repos\WebScrapping\obj\Debug\netcoreapp3.1\WebScrapping.csprojAssemblyReference.cache
+C:\Users\Balcao03\source\repos\WebScrapping\obj\Debug\netcoreapp3.1\WebScrapping.AssemblyInfoInputs.cache
+C:\Users\Balcao03\source\repos\WebScrapping\obj\Debug\netcoreapp3.1\WebScrapping.AssemblyInfo.cs
+C:\Users\Balcao03\source\repos\WebScrapping\obj\Debug\netcoreapp3.1\WebScrapping.csproj.CoreCompileInputs.cache
+C:\Users\Balcao03\source\repos\WebScrapping\obj\Debug\netcoreapp3.1\WebScrapping.dll
+C:\Users\Balcao03\source\repos\WebScrapping\obj\Debug\netcoreapp3.1\WebScrapping.pdb
+C:\Users\Balcao03\source\repos\WebScrapping\obj\Debug\netcoreapp3.1\WebScrapping.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FazAPlanilha", "FazAPlanilha.csproj", "{EA6912EC-1D9F-424F-8978-6298D2FDAD88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6912EC-1D9F-424F-8978-6298D2FDAD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6912EC-1D9F-424F-8978-6298D2FDAD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6912EC-1D9F-424F-8978-6298D2FDAD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6912EC-1D9F-424F-8978-6298D2FDAD88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDA9A3E1-091A-420C-B87B-1C9BD6EAE6DE}
+	EndGlobalSection
+EndGlobal
